@@ -4,7 +4,7 @@ using TMPro;
 
 public class TextScoreScript : MonoBehaviour
 {
-        public TextMeshPro textElement; 
+        public TextMeshProUGUI textElement; 
         public float SpeedScore = 2f;
    public static float Score;
     public static int finalScore;
